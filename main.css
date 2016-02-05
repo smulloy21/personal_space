@@ -3,3 +3,8 @@ h1 {
 }
 .container {
 }
+.section {
+  margin-top: 100px;
+  margin-bottom: 1000px;
+  padding-top: 100px;
+}
