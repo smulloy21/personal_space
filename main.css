@@ -1,5 +1,29 @@
 h1 {
   font-family: 'Play', sans-serif;
 }
-.container {
+
+
+/* dress section */
+
+#dress-static {
+    display: block;
+    margin-left: 250px;
+    margin-top: 50px;
+    height: 800px;
+} 
+
+#dress-section-gif {
+    display: block;
+    margin: 100px;
+    height: 600px;
+}
+
+#defense-dress {
+    display: block;
+    margin: auto;
+    width: 60%;
+} 
+
+.row {
+	float: both;
 }
